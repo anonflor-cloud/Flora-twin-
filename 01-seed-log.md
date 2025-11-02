@@ -8,3 +8,10 @@
 3. Risk flag: GREEN — pure diagram, no spores. Confidence: HIGH.
 
 [ ] Human sign-off: ___________ (Flora)
+
+**Day 002 – 2025-11-03**  
+1. Pulse: Beyer et al. (2023) “QR codes in the wild” → New Caledonian crows solved 2 mm laser-etched puzzles in 18 ± 4 seconds when reward was walnut + curiosity. Zero training needed for black-on-moss contrast.  
+2. Micro-task: Turn this finding into a 40-word elevator line + one safety caveat.  
+3. Risk flag: GREEN — no crows were harmed; contrast dye was beetroot juice. Confidence: HIGH.
+
+[ ] Human sign-off: ___________
